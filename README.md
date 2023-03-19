@@ -1,0 +1,3 @@
+# Terminal-Customization
+
+## This repository contains the configuration files of the customized terminals like ubuntu, powershell and git-bash...
